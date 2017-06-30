@@ -1,0 +1,8 @@
+name: ChatChannels
+version: 1.0
+main: com.RoyalNinja.ChatChannels.Main
+description: ChatChannels is a plugin that enables you to make in infinite amount of chat channels for your server.
+commands:
+     channel:
+         usage: /<command>
+         description: Opens a configurable GUI that lets you select a channel to join.
